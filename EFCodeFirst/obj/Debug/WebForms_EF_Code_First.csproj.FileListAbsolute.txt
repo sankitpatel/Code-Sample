@@ -1,0 +1,9 @@
+C:\Projects\Sample\WebForms_EF_Code_First\bin\WebForms_EF_Code_First.dll
+C:\Projects\Sample\WebForms_EF_Code_First\bin\WebForms_EF_Code_First.pdb
+C:\Projects\Sample\WebForms_EF_Code_First\bin\EntityFramework.dll
+C:\Projects\Sample\WebForms_EF_Code_First\bin\EntityFramework.SqlServer.dll
+C:\Projects\Sample\WebForms_EF_Code_First\bin\EntityFramework.xml
+C:\Projects\Sample\WebForms_EF_Code_First\bin\EntityFramework.SqlServer.xml
+C:\Projects\Sample\WebForms_EF_Code_First\obj\Debug\WebForms_EF_Code_First.csprojResolveAssemblyReference.cache
+C:\Projects\Sample\WebForms_EF_Code_First\obj\Debug\WebForms_EF_Code_First.dll
+C:\Projects\Sample\WebForms_EF_Code_First\obj\Debug\WebForms_EF_Code_First.pdb
